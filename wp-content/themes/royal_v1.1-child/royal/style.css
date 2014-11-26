@@ -1,0 +1,17 @@
+/*
+ Theme Name:     ROYAL - 8theme WordPress Child theme
+ Theme URI:      http://8theme.com/
+ Description:    FThemeForest Premium Theme
+ Author:         8theme
+ Author URI:     http://themeforest.net/user/8theme
+ Template:       royal_v1.1/royal
+ Version:        1.0
+*/
+ 
+@import url("../../royal_v1.1/royal/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+.navbar .header-logo {
+	display: none;
+}
