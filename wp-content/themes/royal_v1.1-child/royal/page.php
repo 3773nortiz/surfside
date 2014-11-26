@@ -24,7 +24,7 @@
 
 <?php if($page_slider != 'no_slider' && $page_slider != ''): ?>
 	<div class="page-heading-slider">
-		<img src="http://8theme.com/import/royal_versions/travel_one_page/logo_travel_2.png" alt="Just another WordPress site">
+		
 		<?php  echo do_shortcode('[rev_slider_vc alias="'.$page_slider.'"]'); ?>
 	</div>
 <?php endif; ?>
