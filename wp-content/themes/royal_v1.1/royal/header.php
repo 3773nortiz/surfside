@@ -34,8 +34,6 @@
 
 			wp_head();
 		?>
-
-		<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri() ?>/override.css" media="screen" />
 </head>
 
 <body <?php body_class(); ?>>
